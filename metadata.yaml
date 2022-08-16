@@ -1,0 +1,40 @@
+_repo: The-violin-and-the-art-of-its-construction-a-treatise-on-the-Stradivarius-violin_68575
+_version: 0.0.1
+alternative_title: Die Geige und ihr Bau. English
+creator:
+  author:
+    agent_name: Riechers, August
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '54835'
+    url: http://www.gutenberg.org/2009/agents/54835
+    wikipedia: https://de.wikipedia.org/wiki/August_Riechers
+description: ''
+gutenberg_issued: '2022-07-20'
+identifiers:
+  gutenberg: '68575'
+  lccn: '18017813'
+language: en
+pgterms:marc904: https://archive.org/details/violinartofitsco00riecuoft/page/37/mode/2up
+pgterms:marc905: 20220611183335riechers
+pgterms:marc906: '1895'
+pgterms:marc907: DE
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: Germany :Franz Wunder,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Violin -- Construction'
+- GITenberg
+tableOfContents: Introduction -- Of the wood -- Of the construction -- The ribs --
+  The back and edges -- The belly -- The arching -- The purfling -- Working-out the
+  thicknesses of the belly and back -- The f-holes -- The bass-bar -- The head or
+  neck -- The dimensions, length of neck and body -- The finger-board and nut -- The
+  position of the neck -- The tail-piece -- The pegs -- The bridge -- The sound-post
+  -- The strings -- The varnish -- The cleaning and care of the violin -- The bow.
+title: 'The violin and the art of its construction: a treatise on the Stradivarius
+  violin'
+url: http://www.gutenberg.org/ebooks/68575
