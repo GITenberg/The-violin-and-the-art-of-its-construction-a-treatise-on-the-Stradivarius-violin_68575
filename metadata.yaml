@@ -1,6 +1,9 @@
 _repo: The-violin-and-the-art-of-its-construction-a-treatise-on-the-Stradivarius-violin_68575
 _version: 0.1.0
 alternative_title: Die Geige und ihr Bau. English
+covers:
+- cover_type: archival
+  image_path: 68575-h/images/cover.jpg
 creator:
   author:
     agent_name: Riechers, August
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54835
     wikipedia: https://de.wikipedia.org/wiki/August_Riechers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68575#The-violin-and-the-art-of-its-construction-a-treatise-on-the-Stradivarius-violin
 gutenberg_issued: '2022-07-20'
 identifiers:
   gutenberg: '68575'
